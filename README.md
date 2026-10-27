@@ -25,8 +25,6 @@ An IoT-based entry and occupancy monitoring system designed to count people ente
 | Servo motor         | Gate mechanism                         |
 | OLED display        | Local status display                   |
 | Buzzer              | Audio alerts                           |
-| Green LED           | Capacity available indicator           |
-| Red LED             | Capacity full indicator                |
 | Jumper wires        | Circuit connections                    |
 | Breadboard          | Prototype assembly                     |
 | USB power supply    | Controller power                       |
@@ -72,7 +70,6 @@ The dashboard provides live information about:
 7. Open Serial Monitor to check the Wi-Fi connection and IP address.
 8. Open the displayed IP address in a browser connected to the same network.
 
-**Security:** Never commit your actual Wi-Fi password to a public repository.
 
 ## 📌 Project Status
 
@@ -80,7 +77,7 @@ Prototype development. Hardware integration, OLED operation, and Wi-Fi dashboard
 
 ## 👨‍💻 Author
 
-Created as an electronics and embedded systems project.
+Muhammad Yoosuf 
 
 ## 🔮 Future Improvements
 
